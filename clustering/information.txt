@@ -1,0 +1,42 @@
+Files :
+
+1) Main.py
+2) generate.py
+
+How to use :
+
+Place Main.py and generate.py in the same folder.
+
+
+Running Example :
+
+run main method From Main.py to see example with 100 point in 5 clusters and 10 clusters
+
+
+
+The API :
+
+1) run(matrix, num_of_clusters)
+
+	returns clusters of the matrix data
+
+	matrix - list of lists which list is point coordinates
+	num_of_clusters = the number of clusters the points will be in
+
+
+
+Result methods :
+
+1) print_clusters(clusters)
+
+	prints the clusters
+
+	clusters - list of clusters to print
+
+
+2) plot_2d(clusters, plot_center)
+
+	draw a 2d plot of the points of each cluster, will work only for 2d points
+
+	clusters - list of clusters to draw
+	plot_center - option to draw the ceneter of each cluster
