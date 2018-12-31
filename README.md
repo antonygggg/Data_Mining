@@ -1,7 +1,6 @@
 # Data Mining
 
-Basic data mining algorithms and models implementations
-using Matplotlib for plotting results 
+Basic data mining algorithms and models implementations, using Matplotlib for plotting results 
 
 <br/><br/>
 
