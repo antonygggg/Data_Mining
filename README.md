@@ -1,6 +1,6 @@
 # Data Mining
 
-Basic data mining algorithms and models implementations, using Matplotlib for plotting results 
+Basic data mining algorithms and models, using Matplotlib for plotting results 
 
 <br/><br/>
 
@@ -18,3 +18,4 @@ Basic data mining algorithms and models implementations, using Matplotlib for pl
 
 #### linear regression
 ![linear_regression](https://user-images.githubusercontent.com/36400368/50566692-34b9b100-0d45-11e9-8960-43914b972edb.jpg)
+
